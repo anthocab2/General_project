@@ -1,84 +1,123 @@
 # Software Engineering Lab
 
-This repository is a personal software engineering lab where I practice programming fundamentals, build mini projects, and improve my problem-solving skills through practical exercises.
+This repository is my personal software engineering lab where I practice programming fundamentals, build mini projects, and improve my problem-solving skills through hands-on exercises.
 
-The goal of this repository is to document my growth as a Software Engineering student while building a strong foundation in Python, Linux, Bash, C, algorithms, and backend development.
+The main goal of this repository is to document my growth as a Software Engineering student while building a strong foundation in Python, Linux, Git, problem-solving, backend development, and future machine learning concepts.
 
 ## About This Repository
 
-This repository contains practical exercises and small programs organized by topic or programming language. Each directory is focused on improving a specific technical skill.
+This repository contains practical exercises, small programs, and mini projects organized by topic and programming language.
 
-This is not just a collection of random exercises. It is a structured learning space where I practice writing cleaner code, using Git and GitHub professionally, and building the habits needed to become a software engineer.
+It is designed as a structured learning space where I practice writing clean code, improving logic, using Git and GitHub professionally, and developing the habits needed to become a software engineer.
 
-## Current Focus
+## Main Focus
 
-- Python fundamentals
+My current focus is Python and software engineering fundamentals.
+
+This includes:
+
 - Programming logic
 - Variables and data types
 - User input and output
-- Conditional logic
+- Conditional statements
 - Loops
 - Functions
 - File organization
 - Git and GitHub workflow
 - Linux terminal practice
+- Clean and readable code
 
 ## Future Topics
 
+As I continue learning, this repository will also include practice with:
+
 - Object-Oriented Programming
-- APIs
-- Backend development
 - Data structures
 - Algorithms
+- APIs
+- JSON data
+- Backend development
 - Testing
 - Automation
-- Machine Learning basics
+- Data analysis
+- Machine learning basics
 
 ## Repository Structure
 
 ```txt
 software-engineering-lab/
 ├── python/
-│   └── basic exercises and mini programs
+│   ├── basics/
+│   └── README.md
 └── README.md
+```
 
+## Python Directory
 
-Python Directory
+The `python/` directory contains Python exercises, mini projects, and practical programs focused on building a strong programming foundation.
 
-The python/ directory contains beginner-to-intermediate Python exercises and mini programs.
+Current and future Python practice includes:
 
-These exercises are focused on:
+- Basic syntax
+- Variables
+- Input and output
+- Arithmetic operations
+- String formatting
+- Conditionals
+- Loops
+- Functions
+- Lists, tuples, sets, and dictionaries
+- File handling
+- Error handling
+- Object-Oriented Programming
+- APIs
+- Automation scripts
+- Machine learning fundamentals
 
-Practicing programming logic
-Working with variables
-Using input and output
-Building small real-world examples
-Improving code readability
-Developing problem-solving habits
+## Current Practice
 
-Example types of projects:
+At this stage, I am working on beginner Python programs that apply real programming concepts in simple and practical ways.
 
-Employee information program
-Salary calculator
-Basic data input programs
-Small command-line tools
-Logic practice exercises
-Technologies Used
-Python
-Git
-GitHub
-Linux
-Bash
-Emacs
-Learning Goal
+Example practice programs:
 
-My main goal is to become a strong Software Engineer with a focus on Python and future specialization in Machine Learning.
+- Employee information program
+- Salary calculator
+- Basic data input programs
+- Formatted output exercises
+- Logic practice exercises
+- Small command-line tools
 
-This repository helps me track my progress, practice consistently, and build a professional foundation through hands-on programming.
+## Technologies Used
 
-Author
+- Python
+- Git
+- GitHub
+- Linux
+- Bash
+- Emacs
 
-Anthony Caban
-Software Engineering Student
-Holberton School Puerto Rico
-GitHub: @anthocab2
+## Learning Goals
+
+Through this repository, I want to:
+
+- Build strong Python fundamentals
+- Improve problem-solving skills
+- Practice writing clean and readable code
+- Learn how to organize projects professionally
+- Become comfortable using Git and GitHub
+- Prepare for backend development
+- Build a foundation for machine learning
+- Develop real software engineering habits
+
+## Long-Term Goal
+
+My long-term goal is to become a Software Engineer with a strong focus on Python and future specialization in Machine Learning.
+
+This repository helps me track my progress, practice consistently, and show my growth through hands-on programming.
+
+## Author
+
+**Anthony Caban**  
+Software Engineering Student  
+Holberton School Puerto Rico  
+GitHub: [@anthocab2](https://github.com/anthocab2)
