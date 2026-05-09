@@ -1,63 +1,84 @@
-# General Project
+# Software Engineering Lab
 
-This repository contains my programming practice exercises, logic challenges, mini projects, and experiments as I grow as a software engineer.
+This repository is a personal software engineering lab where I practice programming fundamentals, build mini projects, and improve my problem-solving skills through practical exercises.
 
-The main focus of this repository is learning by building, practicing consistently, and improving problem-solving skills through different programming languages — especially Python.
+The goal of this repository is to document my growth as a Software Engineering student while building a strong foundation in Python, Linux, Bash, C, algorithms, and backend development.
 
-## Goals
+## About This Repository
 
-- Practice programming fundamentals
-- Improve logical thinking and problem solving
-- Build coding discipline
-- Learn different programming languages
-- Create mini projects and exercises
-- Document my software engineering journey
+This repository contains practical exercises and small programs organized by topic or programming language. Each directory is focused on improving a specific technical skill.
 
-## Main Focus
+This is not just a collection of random exercises. It is a structured learning space where I practice writing cleaner code, using Git and GitHub professionally, and building the habits needed to become a software engineer.
 
-Currently focused on:
+## Current Focus
 
-- Python Fundamentals
-- Object-Oriented Programming (OOP)
+- Python fundamentals
+- Programming logic
+- Variables and data types
+- User input and output
+- Conditional logic
+- Loops
+- Functions
+- File organization
+- Git and GitHub workflow
+- Linux terminal practice
+
+## Future Topics
+
+- Object-Oriented Programming
 - APIs
-- Algorithms & Logic
-- Linux Development Environment
+- Backend development
+- Data structures
+- Algorithms
+- Testing
+- Automation
+- Machine Learning basics
 
 ## Repository Structure
 
-```bash
-General_Project/
-│
+```txt
+software-engineering-lab/
 ├── python/
-│   ├── basics/
-│   ├── if_else/
-│   ├── loops/
-│   ├── functions/
-│   ├── oop/
-│   ├── api/
-│   └── mini_projects/
-│
-├── c/
-├── bash/
-├── javascript/
-└── sql/
+│   └── basic exercises and mini programs
+└── README.md
 
 
-Purpose
+Python Directory
 
-This repository is meant to serve as:
+The python/ directory contains beginner-to-intermediate Python exercises and mini programs.
 
-A personal learning archive
-A programming playground
-A place to practice concepts learned in school and independently
-A portfolio of growth and consistency
-Technologies
+These exercises are focused on:
+
+Practicing programming logic
+Working with variables
+Using input and output
+Building small real-world examples
+Improving code readability
+Developing problem-solving habits
+
+Example types of projects:
+
+Employee information program
+Salary calculator
+Basic data input programs
+Small command-line tools
+Logic practice exercises
+Technologies Used
 Python
-C
-Bash
-JavaScript
-SQL
+Git
+GitHub
 Linux
+Bash
+Emacs
+Learning Goal
+
+My main goal is to become a strong Software Engineer with a focus on Python and future specialization in Machine Learning.
+
+This repository helps me track my progress, practice consistently, and build a professional foundation through hands-on programming.
+
 Author
 
 Anthony Caban
+Software Engineering Student
+Holberton School Puerto Rico
+GitHub: @anthocab2
