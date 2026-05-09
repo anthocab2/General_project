@@ -1,6 +1,4 @@
 """
-employee_information.py
-
 This program collects basic employee information
 using user input and displays the data in a clean format.
 
