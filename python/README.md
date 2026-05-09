@@ -1,58 +1,111 @@
-# Python Journey
+# Python Practice
 
-This directory contains all my Python practice exercises, logic challenges, mini projects, and experiments as I continue improving my programming skills.
+This directory contains Python exercises, mini projects, and practical programs focused on building a strong foundation in software engineering.
 
-The main focus of this directory is learning Python from the ground up while developing problem-solving skills, programming logic, and real coding experience through practice.
+The goal is to practice Python step by step, starting from the basics and progressing toward more advanced topics such as functions, object-oriented programming, APIs, automation, and eventually machine learning fundamentals.
 
-## Goals
+## Purpose
 
-- Practice Python fundamentals
-- Improve logical thinking and problem solving
-- Build coding discipline
-- Learn Python deeply through exercises and projects
-- Experiment with new programming concepts
-- Document my learning journey
+The purpose of this directory is to document my Python learning journey through practical exercises and small real-world programs.
 
-## Current Focus
+Each file or project is designed to strengthen a specific programming concept while improving code readability, problem-solving skills, and professional coding habits.
 
-Currently focused on:
+## Topics Covered
 
-- Python Fundamentals
-- Conditional Statements
+This directory will include practice with:
+
+- Variables and data types
+- User input and output
+- String formatting
+- Arithmetic operations
+- Conditional statements
 - Loops
 - Functions
-- Data Structures
-- Object-Oriented Programming (OOP)
+- Lists, tuples, sets, and dictionaries
+- File handling
+- Error handling
+- Modules and imports
+- Object-Oriented Programming
 - APIs
-- Error Handling
+- JSON data
+- Automation scripts
+- Basic testing
+- Problem-solving exercises
+- Beginner machine learning concepts in the future
 
-## Directory Structure
+## Current Exercises
 
-```bash
+### Employee Information Program
+
+A small command-line program that collects employee information from the user and displays it in a clean format.
+
+Concepts practiced:
+
+- `input()`
+- Variables
+- Type conversion with `int()`
+- f-strings
+- Basic arithmetic
+- Formatted output
+
+## Future Practice Projects
+
+Planned Python practice projects include:
+
+- Salary calculator
+- Grade calculator
+- Login system simulation
+- Simple banking system
+- Task manager
+- Contact book
+- File organizer
+- API data fetcher
+- Weather app using an API
+- Basic object-oriented programs
+- Data analysis practice
+- Machine learning beginner exercises
+
+## Suggested Structure
+
+As this directory grows, it may be organized like this:
+
+```txt
 python/
-│
 ├── basics/
-├── if_else/
+│   ├── variables.py
+│   ├── input_output.py
+│   └── conditionals.py
 ├── loops/
+│   └── loop_practice.py
 ├── functions/
-├── data_structures/
-├── file_handling/
+│   └── calculator.py
 ├── oop/
-├── api/
-└── mini_projects/
-Purpose
+│   └── employee.py
+├── apis/
+│   └── weather_api.py
+├── automation/
+│   └── file_organizer.py
+├── machine_learning_basics/
+│   └── first_model.py
+└── README.md
+Learning Goals
 
-This directory is meant to serve as:
+Through this directory, I want to:
 
-A personal Python learning archive
-A programming playground
-A place to practice concepts learned in school and independently
-A collection of exercises and mini projects
-A portfolio of growth and consistency
-Environment
+Build strong Python fundamentals
+Practice writing clean and readable code
+Improve logical thinking
+Learn how to structure programs professionally
+Prepare for backend development
+Build a foundation for machine learning
+Develop habits used in real software engineering environments
+Technologies Used
+Python
 Linux
+Bash
+Git
+GitHub
 Emacs
-Python 3
-Author
+Notes
 
-Anthony Caban
+This directory is part of my larger software-engineering-lab repository, where I practice software engineering concepts through hands-on programming exercises and mini projects.
