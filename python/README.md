@@ -88,24 +88,29 @@ python/
 ├── machine_learning_basics/
 │   └── first_model.py
 └── README.md
-Learning Goals
+```
+
+## Learning Goals
 
 Through this directory, I want to:
 
-Build strong Python fundamentals
-Practice writing clean and readable code
-Improve logical thinking
-Learn how to structure programs professionally
-Prepare for backend development
-Build a foundation for machine learning
-Develop habits used in real software engineering environments
-Technologies Used
-Python
-Linux
-Bash
-Git
-GitHub
-Emacs
-Notes
+- Build strong Python fundamentals
+- Practice writing clean and readable code
+- Improve logical thinking
+- Learn how to structure programs professionally
+- Prepare for backend development
+- Build a foundation for machine learning
+- Develop habits used in real software engineering environments
 
-This directory is part of my larger software-engineering-lab repository, where I practice software engineering concepts through hands-on programming exercises and mini projects.
+## Technologies Used
+
+- Python
+- Linux
+- Bash
+- Git
+- GitHub
+- Emacs
+
+## Notes
+
+This directory is part of my larger `software-engineering-lab` repository, where I practice software engineering concepts through hands-on programming exercises and mini projects.
